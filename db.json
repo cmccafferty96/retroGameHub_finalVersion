@@ -1,0 +1,204 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "The Sims",
+      "image": "https://i.imgur.com/zlsxEw5.jpg",
+      "release_year": "2000",
+      "platform": "Windows(PC)",
+      "genre": "Life Simulator",
+      "description": "The Sims is a strategic life-simulation computer game developed by Maxis and published by Electronic Arts. It was created by game designer Will Wright, also known for developing SimCity. It is a simulation of the daily activities of one or more virtual persons in a suburban household near SimCity.",
+      "favorited": "false"
+    },
+    {
+      "id": 2,
+      "name": "Grand Theft Auto",
+      "image": "https://i.imgur.com/G6ciSi9.jpg",
+      "release_year": "1997",
+      "platform": "Windows(PC), PlayStation",
+      "genre": "Action-Adventure",
+      "description": "Grand Theft Auto is an action-adventure video game developed by DMA Design and published by BMG Interactive. It is the first title of the Grand Theft Auto series and was released in November 1997 for MS-DOS and Windows, in December 1997 for the PlayStation and in October 1999 for the Game Boy Color. The game's narrative follows a criminal who climbs in status within the criminal underworld across three fictional cities, inspired by real-life locations. The gameplay is presented from a top-down perspective and takes place within an open-world environment in which the player is not required to perform missions, although they are necessary to progress through the levels.",
+      "favorited": "false"
+    },
+    {
+      "id": 3,
+      "name": "GoldenEye 007",
+      "image": "https://i.imgur.com/fmoUZwO.jpg",
+      "release_year": "1997",
+      "platform": "Nintendo 64",
+      "genre": "First Person Shooter",
+      "description": "GoldenEye 007  is a 1997 first-person shooter video game developed by Rare and published by Nintendo for the Nintendo 64. Based on the 1995 James Bond film GoldenEye, the player controls the secret agent James Bond to prevent a criminal syndicate from using a satellite weapon.",
+      "favorited": "false"
+    },
+    {
+      "id": 4,
+      "name": "Tony Hawk's Underground",
+      "image": "https://i.imgur.com/jnT5af0.jpg ",
+      "release_year": "2003",
+      "platform": "PlayStation 2, Xbox, GameCube, Windows(PC)",
+      "genre": "Sports",
+      "description": "Tony Hawk's Underground is a 2003 skateboarding video game and the fifth entry in the Tony Hawk's series after Tony Hawk's Pro Skater 4. It was developed by Neversoft and published by Activision in 2003 for theGameCube, PlayStation 2, Xbox, and Game Boy Advance. In 2004, it was published for Microsoft Windows in Australia and New Zealand as a budget release. Underground is built upon the skateboarding formula of previous Tony Hawk's games: the player explores levels and completes goals while performing tricks. The game features a new focus on customization; the player, instead of selecting a professional skater, creates a custom character.",
+      "favorited": "false"
+    },
+    {
+      "id": 5,
+      "name": "Super Mario 64",
+      "image": "https://i.imgur.com/MeIvllR.jpg",
+      "release_year": "1996",
+      "platform": "Nintendo 64",
+      "genre": "Platform",
+      "description": "Super Mario 64 is a platform game developed and published by Nintendo for the Nintendo 64. It was released in Japan and North America in 1996 and PAL region in 1997. It is the first Super Mario game to feature 3D gameplay, combining traditional Super Mario gameplay, visual style, and characters in a large open world. In the game, Bowser, the primary antagonist of the Super Mario franchise, invades Princess Peach’'s castle and hides the castle's sources of protection, the Power Stars, in many different worlds inside magical paintings. As Mario, the player collects Power Stars to unlock enough of Princess Peach's castle to get to Bowser and rescue Princess Peach.",
+      "favorited": "false"
+    },
+    {
+      "id": 6,
+      "name": "Final Fantasy",
+      "image": "https://i.imgur.com/GvTI7iT.jpg",
+      "release_year": "1987",
+      "platform": "NES",
+      "genre": "RPG",
+      "description": "Final Fantasy is a Japanese science fantasy anthology media franchise created by Hironobu Sakaguchi and developed and owned by Square Enix (formerly Square). The franchise centers on a series of fantasy and science fantasy role-playing video games.",
+      "favorited": "false"
+    },
+    {
+      "id": 7,
+      "name": "Harvest Moon: A Wonderful Life",
+      "image": "https://i.imgur.com/gS7L0iG.jpg",
+      "release_year": "2003",
+      "platform": "GameCube, PlayStation 2",
+      "genre": "Simulation/RPG",
+      "description": "Harvest Moon: A Wonderful Life is a video game that was released in Japan in September 2003 and March 2004 in North America for the GameCube. It was developed and published by Marvelous Interactive, and is part of the long-running Story of Seasons series of video games. The GameCube version offers connectivity with the Game Boy Advance game, Harvest Moon: Friends of Mineral Town.",
+      "favorited": "false"
+    },
+    {
+      "id": 8,
+      "name": "Legend of Zelda",
+      "image": "https://i.imgur.com/EZyYeD2.jpg",
+      "release_year": "1986",
+      "platform": "NES",
+      "genre": "Action-Adventure",
+      "description": "Legend of Zelda, originally released in Japan as The Hyrule Fantasy: Zelda no Densetsu, is an action-adventure game developed and published by Nintendo. The first game of The Legend of Zelda Series, it is set in the fantasy land of Hyrule and centers on an elf-like boy named Link, who aims to collect the eight fragments of the Triforce of Wisdom in order to rescue Princess Zelda from the antagonist Ganon. During the course of the game, the player controls Link from a top-down perspective and navigates throughout the overworld and dungeons, collecting weapons, defeating enemies and uncovering secrets along the way.",
+      "favorited": "false"
+    },
+    {
+      "id": 9,
+      "name": "Crash Bandicoot",
+      "image": "https://i.imgur.com/AjpagSq.jpg",
+      "release_year": "1996",
+      "platform": "PlayStation",
+      "genre": "Platform",
+      "description": "Crash Bandicoot is a 1996 platform video game developed by Naughty Dog and published by Sony Computer Entertainment for the PlayStation. The player controls Crash, a genetically enhanced bandicoot created by the mad scientist Doctor Neo Cortex. The story follows Crash as he aims to foil Cortex's plans for world domination and rescue his girlfriend Tawna, a female bandicoot also created by Cortex. The game is played from a third-person perspective in which the camera trails behind Crash, though some levels feature forward-scrolling and side-scrolling perspectives.",
+      "favorited": "false"
+    },
+    {
+      "id": 10,
+      "name": "Super Smash Bros: Melee",
+      "image": "",
+      "release_year": "2001",
+      "platform": "GameCube",
+      "genre": "Fighting",
+      "description": "Super Smash Bros: Melee is a 2001 crossover fighting video game developed by HAL Laboratory and published by Nintendo for the GameCube. It is the second installment in the Super Smash Bros. series. It features characters from Nintendo video game franchises such as Mario, The Legend of Zelda, Star Fox and Pokemon, and Donkey Kong among others. The stages and gameplay modes reference or take designs from these franchises as well.",
+      "favorited": "false"
+    },
+    {
+      "id": 11,
+      "name": "Kingdom Hearts",
+      "image": "https://i.imgur.com/filR1ex.jpg",
+      "release_year": "2002",
+      "platform": "PlayStation 2",
+      "genre": "Action RPG",
+      "description": "Kingdom Hearts is a 2002 action role-playing video game developed by Square for the PlayStation 2. It is the first game in the Kingdom Hearts series and is the result of a collaboration between Square and The Walt Disney Company. An expanded re-release of the game featuring new and additional content, Kingdom Hearts Final Mix, was released exclusively in Japan in December 2002.",
+      "favorited": "false"
+    },
+    {
+      "id": 12,
+      "name": "Lego Star Wars",
+      "image": "https://i.imgur.com/6p2uJGT.jpg",
+      "release_year": "2005",
+      "platform": "GameCube, PlayStation 2, Xbox, Windows(PC)",
+      "genre": "Action-Adventure",
+      "description": "Lego Star Wars is a Lego-themed, action-adventure video game based on the Lego Star Wars line of toys, and the first installment in the Lego video game franchise developed by Traveller's Tales, which would develop all future Lego titles from that point on. It was first released on 29 March 2005, and is a video game adaptation of the Star Wars prequel trilogy: The Phantom Menace (1999), Attack of the Clones (2002) and Revenge of the Sith (2005), with a bonus level from A New Hope (1977). ",
+      "favorited": "false"
+    },
+    {
+      "id": 13,
+      "name": "Spider-Man",
+      "image": "https://i.imgur.com/0EEnxsx.jpg",
+      "release_year": "2002",
+      "platform": "PlayStation 2, GameCube, Xbox, GBA, Windows(PC)",
+      "genre": "Action-Adventure",
+      "description": "Spider-Man is a 2002 action-adventure game based on the 2002 film of the same name. It was released for the PlayStation 2, Xbox, GameCube, Microsoft Windows, and Game Boy Advance on April 16, 2002, in North America (two weeks before the film's release), and June 7 in Europe. While the game directly adapts the plot of the film it is based on, it also builds upon it by including scenes from the film and villains that don't appear in the movie.",
+      "favorited": "false"
+    },
+    {
+      "id": 14,
+      "name": "Mario Kart Double Dash!!",
+      "image": "https://i.imgur.com/GZYDBkr.jpg",
+      "release_year": "2003",
+      "platform": "GameCube",
+      "genre": "Racing",
+      "description": "Mario Kart Double Dash!! is a 2003 kart racing video game in which 2 players race in a kart against other 2-player teams in 16 different courses. It was developed and published by Nintendo for GameCube.",
+      "favorited": "false"
+    },
+    {
+      "id": 15,
+      "name": "Pac-Man",
+      "image": "https://i.imgur.com/Q0YPo4U.jpg",
+      "release_year": "1980",
+      "platform": "Arcade",
+      "genre": "Maze",
+      "description": "Pac-Man is a 1980 maze action video game developed and released by Namco for arcades. In North America, the game was released by Midway Manufacturing as part of its licensing agreement with Namco America. The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. Eating large flashing dots called 'Power Pellets' causes the ghosts to temporarily turn blue, allowing Pac-Man to eat them for bonus points.",
+      "favorited": "false"
+    },
+    {
+      "id": 16,
+      "name": "Tetris",
+      "image": "https://i.imgur.com/Xhgez1f.jpg",
+      "release_year": "1985",
+      "platform": "NES",
+      "genre": "Puzzle",
+      "description": "Tetris is a puzzle video game created by the Soviet software engineer Alexey Pajitnov in 1985. In Tetris, players complete lines by moving differently shaped pieces,  which descend onto the playing field. The completed lines disappear and grant the player points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared lines reach the top of the playing field.",
+      "favorited": "false"
+    },
+    {
+      "id": 17,
+      "name": "The Elder Scrolls: Skyrim",
+      "image": "https://i.imgur.com/7wKJaIZ.jpg",
+      "release_year": "2011",
+      "platform": "PlayStation 3, Xbox 360, Windows(PC)",
+      "genre": "Action RPG",
+      "description": "Elder Scrolls V: Skyrim was developed by Bethesda Game Studios and published by Bethesda Softworks. The Elder Scrolls V: Skyrim is a fantasy action role-playing game, playable from either a first- or third-person perspective. The player may freely roam over the land of Skyrim, an open world environment consisting of wilderness expanses, dungeons, caves, cities, towns, fortresses, and villages.",
+      "favorited": "false"
+    },
+    {
+      "id": 18,
+      "name": "Street Fighter",
+      "image": "https://i.imgur.com/itdy5gC.jpg",
+      "release_year": "1987",
+      "platform": "Arcade",
+      "genre": "Fighting",
+      "description": "Street Fighter is a 1987 arcade game developed by Capcom. It is the first competitive fighting game produced by the company and the first installment in the Street Fighter series. The player competes in one-on-one matches against a series of computer-controlled opponents or in a single match against another player. Each match consists of three rounds in which the player must knock out an opponent in less than 30 seconds",
+      "favorited": "false"
+    },
+    {
+      "id": 19,
+      "name": "Animal Crossing",
+      "image": "https://i.imgur.com/n4jvwVx.jpg",
+      "release_year": "2001",
+      "platform": "GameCube",
+      "genre": "Life Simulator",
+      "description": "Animal Crossing is a 2001 social simulation game developed and published by Nintendo for the GameCube. It is open-ended, and the player's character can live a separate life with very little set plot or mandatory tasks. Players assume the role of a new resident to the town.",
+      "favorited": "false"
+    },
+    {
+      "id": 20,
+      "name": "Luigi's Mansion",
+      "image": "https://i.imgur.com/oqwZXEG.jpg",
+      "release_year": "2001",
+      "platform": "GameCube",
+      "genre": "Action-Adventure",
+      "description": "Luigi's Mansion is a 2001 action-adventure game developed and published by Nintendo. The game was a launch title for the GameCube and was the first game in the Mario franchise to be released for the console. It is the second video game in which Luigi is the main character instead of Mario, after Mario is Missing!. Players control him as he explores a haunted mansion, searches for Mario and deals with ghosts by capturing them through a vacuum cleaner supplied by Professor E. Gadd.",
+      "favorited": "false"
+    }
+  ]
+}
